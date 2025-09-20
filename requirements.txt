@@ -1,0 +1,16 @@
+streamlit
+pillow
+numpy
+opencv-python-headless
+langchain
+PyPDF2
+PyMuPDF
+google.generativeai
+langchain_community
+sentence-transformers
+faiss-cpu
+tiktoken
+InstructorEmbedding
+huggingface_hub==0.19.4
+langchain_google_genai
+python-dotenv
